@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsHierarchy", "AnimalsHierarchy.csproj", "{709E2112-2F80-49F0-9B37-DC29BB4E6E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709E2112-2F80-49F0-9B37-DC29BB4E6E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709E2112-2F80-49F0-9B37-DC29BB4E6E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709E2112-2F80-49F0-9B37-DC29BB4E6E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709E2112-2F80-49F0-9B37-DC29BB4E6E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BDC9938-E347-4FF9-B8B2-C9511D2C80DE}
+	EndGlobalSection
+EndGlobal
