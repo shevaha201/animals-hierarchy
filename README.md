@@ -1,2 +1,2 @@
 # animals-hierarchy
-![Animals hierarchy] (./Animals.png)
+![Animals hierarchy](./Animals.png)
